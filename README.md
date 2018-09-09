@@ -13,3 +13,5 @@ AFC地铁车站监控地图，可根据配置XML文件或数据库数据自动�
   
 三、监控地图
  ![](https://github.com/wikeyKelly/AFC.MonitorMap/blob/9446e968312d6fd2ef2d332c490dce79eae6b878/AFC.MonitorMap/Debug/image/stationmap.png)
+ 
+ !(https://github.com/wikeyKelly/AFC.MonitorMap/blob/940aabbd921b9df207febe74dac5deef049080d8/AFC.MonitorMap/Debug/image/line.png)
