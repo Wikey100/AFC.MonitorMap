@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="AFC.MonitorMap.MonitorService.Service1" CodeBehind="Service1.svc.cs" %>

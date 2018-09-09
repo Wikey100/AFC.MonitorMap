@@ -1,0 +1,14 @@
+G:\02gitHubProject\AFC.MonitorMap\AFC.MonitorMap\Debug\bin\AFC.MonitorMap.WPFTest.exe.config
+G:\02gitHubProject\AFC.MonitorMap\AFC.MonitorMap\Debug\bin\AFC.MonitorMap.WPFTest.exe
+G:\02gitHubProject\AFC.MonitorMap\AFC.MonitorMap\Debug\bin\AFC.MonitorMap.WPFTest.pdb
+G:\02gitHubProject\AFC.MonitorMap\AFC.MonitorMap\AFC.MonitorMap.WPFTest\obj\Debug\AFC.MonitorMap.WPFTest.csprojResolveAssemblyReference.cache
+G:\02gitHubProject\AFC.MonitorMap\AFC.MonitorMap\AFC.MonitorMap.WPFTest\obj\Debug\MainWindow.g.cs
+G:\02gitHubProject\AFC.MonitorMap\AFC.MonitorMap\AFC.MonitorMap.WPFTest\obj\Debug\App.g.cs
+G:\02gitHubProject\AFC.MonitorMap\AFC.MonitorMap\AFC.MonitorMap.WPFTest\obj\Debug\AFC.MonitorMap.WPFTest_MarkupCompile.cache
+G:\02gitHubProject\AFC.MonitorMap\AFC.MonitorMap\AFC.MonitorMap.WPFTest\obj\Debug\AFC.MonitorMap.WPFTest_MarkupCompile.lref
+G:\02gitHubProject\AFC.MonitorMap\AFC.MonitorMap\AFC.MonitorMap.WPFTest\obj\Debug\MainWindow.baml
+G:\02gitHubProject\AFC.MonitorMap\AFC.MonitorMap\AFC.MonitorMap.WPFTest\obj\Debug\AFC.MonitorMap.WPFTest.g.resources
+G:\02gitHubProject\AFC.MonitorMap\AFC.MonitorMap\AFC.MonitorMap.WPFTest\obj\Debug\AFC.MonitorMap.WPFTest.Properties.Resources.resources
+G:\02gitHubProject\AFC.MonitorMap\AFC.MonitorMap\AFC.MonitorMap.WPFTest\obj\Debug\AFC.MonitorMap.WPFTest.csproj.GenerateResource.Cache
+G:\02gitHubProject\AFC.MonitorMap\AFC.MonitorMap\AFC.MonitorMap.WPFTest\obj\Debug\AFC.MonitorMap.WPFTest.exe
+G:\02gitHubProject\AFC.MonitorMap\AFC.MonitorMap\AFC.MonitorMap.WPFTest\obj\Debug\AFC.MonitorMap.WPFTest.pdb

@@ -1,0 +1,5 @@
+G:\02gitHubProject\AFC.MonitorMap\AFC.MonitorMap\Debug\bin\AFC.MonitorMap.Edit.dll
+G:\02gitHubProject\AFC.MonitorMap\AFC.MonitorMap\Debug\bin\AFC.MonitorMap.Edit.pdb
+G:\02gitHubProject\AFC.MonitorMap\AFC.MonitorMap\AFC.MonitorMap.Edit\obj\Debug\AFC.MonitorMap.Edit.csprojResolveAssemblyReference.cache
+G:\02gitHubProject\AFC.MonitorMap\AFC.MonitorMap\AFC.MonitorMap.Edit\obj\Debug\AFC.MonitorMap.Edit.dll
+G:\02gitHubProject\AFC.MonitorMap\AFC.MonitorMap\AFC.MonitorMap.Edit\obj\Debug\AFC.MonitorMap.Edit.pdb
