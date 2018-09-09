@@ -10,3 +10,6 @@ AFC地铁车站监控地图，可根据配置XML文件或数据库数据自动�
   3、AFC.MonitorMap.Core类库
   
   4、AFC.MonitorMap.WPFTest
+  
+三、监控地图
+ ![](https://github.com/wikeyKelly/AFC.MonitorMap/blob/9446e968312d6fd2ef2d332c490dce79eae6b878/AFC.MonitorMap/Debug/image/stationmap.png)
