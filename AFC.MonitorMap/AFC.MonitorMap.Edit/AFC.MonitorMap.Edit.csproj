@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{4F46ABFB-5048-4116-9D03-DAE26325ECA1}</ProjectGuid>
+    <ProjectGuid>{98622856-6F37-41F7-B94C-A40AE4EBA8DA}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>AFC.MonitorMap</RootNamespace>
-    <AssemblyName>AFC.MonitorMap</AssemblyName>
+    <RootNamespace>AFC.MonitorMap.Edit</RootNamespace>
+    <AssemblyName>AFC.MonitorMap.Edit</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
