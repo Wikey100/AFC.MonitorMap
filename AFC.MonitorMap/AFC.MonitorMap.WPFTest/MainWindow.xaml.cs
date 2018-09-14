@@ -1,4 +1,6 @@
-﻿using System;
+﻿using DrawTools;
+using DrawTools.DB;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -23,6 +25,32 @@ namespace AFC.MonitorMap.WPFTest
         public MainWindow()
         {
             InitializeComponent();
+            //if (new StationConfigManager() != null)
+            //{
+            //    DBDeviceService db = new DBDeviceService(new StationConfigManager());
+            //}
+            this.Loaded += MainWindow_Loaded;
+        }
+
+        private void MainWindow_Loaded(object sender, RoutedEventArgs e)
+        {
+            InitStationMapFormHost();
+        }
+
+        /// <summary>
+        /// 初始化车站地图绘画窗体
+        /// </summary>
+        private void InitStationMapFormHost()
+        {
+            if (this.stationMapFormHost.Child == null)
+            {
+                StationMapForm mainForm = new StationMapForm();
+                mainForm.Show();
+                mainForm.TopLevel = false;
+                mainForm.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
+                this.stationMapFormHost.Child = mainForm;
+                mainForm.BringToFront();
+            }
         }
     }
 }

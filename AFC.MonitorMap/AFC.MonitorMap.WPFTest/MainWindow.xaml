@@ -5,8 +5,8 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:AFC.MonitorMap.WPFTest"
         mc:Ignorable="d"
-        Title="MainWindow" Height="350" Width="525">
+        Title="AFC设备监控编辑" Height="350" Width="525">
     <Grid>
-        
+        <WindowsFormsHost Name="stationMapFormHost"  />
     </Grid>
 </Window>

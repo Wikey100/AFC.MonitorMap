@@ -1,5 +1,15 @@
 G:\02gitHubProject\AFC.MonitorMap\AFC.MonitorMap\Debug\bin\AFC.MonitorMap.Edit.dll
 G:\02gitHubProject\AFC.MonitorMap\AFC.MonitorMap\Debug\bin\AFC.MonitorMap.Edit.pdb
-G:\02gitHubProject\AFC.MonitorMap\AFC.MonitorMap\AFC.MonitorMap.Edit\obj\Debug\AFC.MonitorMap.Edit.csprojResolveAssemblyReference.cache
+G:\02gitHubProject\AFC.MonitorMap\AFC.MonitorMap\AFC.MonitorMap.Edit\obj\Debug\DrawTools.DrawArea.resources
+G:\02gitHubProject\AFC.MonitorMap\AFC.MonitorMap\AFC.MonitorMap.Edit\obj\Debug\IpInputExt.Ctrls.IpInputTextbox.resources
+G:\02gitHubProject\AFC.MonitorMap\AFC.MonitorMap\AFC.MonitorMap.Edit\obj\Debug\DrawTools.AddTextForm.resources
+G:\02gitHubProject\AFC.MonitorMap\AFC.MonitorMap\AFC.MonitorMap.Edit\obj\Debug\DrawTools.DrawForm.resources
+G:\02gitHubProject\AFC.MonitorMap\AFC.MonitorMap\AFC.MonitorMap.Edit\obj\Debug\DrawTools.EditorDialog.resources
+G:\02gitHubProject\AFC.MonitorMap\AFC.MonitorMap\AFC.MonitorMap.Edit\obj\Debug\DrawTools.PropertiesDialog.resources
+G:\02gitHubProject\AFC.MonitorMap\AFC.MonitorMap\AFC.MonitorMap.Edit\obj\Debug\DrawTools.SetDrawForm.resources
+G:\02gitHubProject\AFC.MonitorMap\AFC.MonitorMap\AFC.MonitorMap.Edit\obj\Debug\DrawTools.SwitchEditDialog.resources
+G:\02gitHubProject\AFC.MonitorMap\AFC.MonitorMap\AFC.MonitorMap.Edit\obj\Debug\AFC.MonitorMap.Edit.Properties.Resource.resources
+G:\02gitHubProject\AFC.MonitorMap\AFC.MonitorMap\AFC.MonitorMap.Edit\obj\Debug\DrawTools.StationMapForm.resources
+G:\02gitHubProject\AFC.MonitorMap\AFC.MonitorMap\AFC.MonitorMap.Edit\obj\Debug\AFC.MonitorMap.Edit.csproj.GenerateResource.Cache
 G:\02gitHubProject\AFC.MonitorMap\AFC.MonitorMap\AFC.MonitorMap.Edit\obj\Debug\AFC.MonitorMap.Edit.dll
 G:\02gitHubProject\AFC.MonitorMap\AFC.MonitorMap\AFC.MonitorMap.Edit\obj\Debug\AFC.MonitorMap.Edit.pdb
